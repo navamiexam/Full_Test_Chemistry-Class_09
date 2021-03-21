@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="7B1160D1-AF80-41A6-8DAC-32064859C8F7" version="0">
+	<info>
+		<title>Full Test Chemistry-Class 09</title>
+		<description/>
+	</info>
+	<files index="id32" thumbnail="id28" totalSize="2080596">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-29fdb31c5d51bda5892ca241091d3496741633a5.png</file>
+		<file id="id10">data/images/img-33cbe4ed0044b74fdc36844fd99626e6e4c6c7d1.png</file>
+		<file id="id11">data/images/img-4e34304b0e461bef8971be7c9f8ddfa0a07a23c5.png</file>
+		<file id="id12">data/images/img-6dbf2a55960c50c8352288eb5808339a583807c7.png</file>
+		<file id="id13">data/images/img-6e77f6a3b7ee50d0f8c2cbd54fd2860b047b8943.png</file>
+		<file id="id14">data/images/img-780ae9515142699e4584dc89906d1a9e3594410b.png</file>
+		<file id="id15">data/images/img-827d783aaa7d98e354972a982a7d253ca83d5523.png</file>
+		<file id="id16">data/images/img-871aa96807fee58145c57e7083687b68adb4abdc.png</file>
+		<file id="id17">data/images/img-919092edaf08e6c4820092f95e5f01ebf6c3a2b6.png</file>
+		<file id="id18">data/images/img-9923aa75a77d7e631352eb4bd2b03a30ef0b70ed.png</file>
+		<file id="id19">data/images/img-a84aecddab41113645650e22e860b42b6b6bb291.png</file>
+		<file id="id20">data/images/img-b3c87cd175e0d348cd34c2943a2d2a26461c9b44.png</file>
+		<file id="id21">data/images/img-c7878b7cf2ad3023130137ee3a47a84e75179fd3.png</file>
+		<file id="id22">data/images/img-d03265193baf9f67f4066fae52a71f8b04256b55.png</file>
+		<file id="id23">data/images/img-d6cba5059baa9455e576919e7baae5931d57e804.png</file>
+		<file id="id24">data/images/img-ec74de42a1f930a40e9af0a54f3618f6bff8ff5e.png</file>
+		<file id="id25">data/images/img-eebffcbc2a8a9e44597b90dbbb6cb96cf172fe76.png</file>
+		<file id="id26">data/ismplayer/app_store2x.png</file>
+		<file id="id27">data/ismplayer/play.svg</file>
+		<file id="id28">data/ismplayer/preview.png</file>
+		<file id="id29">data/ismplayer/style.css</file>
+		<file id="id30">data/ismplayer/style_mini.css</file>
+		<file id="id31">data/player.js</file>
+		<file id="id32">index.html</file>
+		<file id="id33">ismplayer.html</file>
+		<file id="id34">preview.png</file>
+	</files>
+</presentation>
+
